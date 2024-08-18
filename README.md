@@ -1,7 +1,7 @@
-# Hyper SDK Custom VM
+# Hyper SDK Using Custom VM
 
 ## Description
-Setting up and running a HyperChain using the Avalanche network. This project provides a simple and straightforward process to initialize, configure, and interact with your own HyperChain.
+Deploying and managing a HyperChain on the Avalanche network is streamlined with this project. It offers an easy-to-follow approach for launching, configuring, and operating your personal HyperChain.
 
 ## Getting Started
 
@@ -19,9 +19,9 @@ Edit the `consts/consts.go` file and fill in the missing parts:
 
 ```go
 const (
-    HRP    = "Thirdtoken"
-    Name   = "ThirdWeb"
-    Symbol = "TWB"
+	HRP = "DeepakCHAIN"
+	Name = "DeepakToken"
+	Symbol = "DT"
 )
 ```
 
@@ -91,7 +91,7 @@ If you encounter any issues, refer to the README file or run the appropriate com
 
 ## Authors
 
-- Rudra Pratap Singh
+- Deepak Kumar
 
 ## License
 
